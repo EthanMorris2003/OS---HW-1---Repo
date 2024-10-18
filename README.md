@@ -14,8 +14,8 @@
    Clone this repository
 
 ## 2. Compile the producer and consumer programs:
-   gcc producer.c -pthread -o producer
-   gcc consumer.c -pthread -o consumer
+-gcc producer.c -pthread -o producer
+-gcc consumer.c -pthread -o consumer
 
 ## 3. Usage
    To run the producer and consumer programs, execute the following command in your terminal:
